@@ -19,9 +19,9 @@ public class TestData {
     public Object[][] getProductData() {
         Object[][] data = new Object[][]{
                 {"Blouse", "2", "M", "White"},
-                {"Printed Dress", "3", "L", "Orange"},
+               {"Printed Dress", "3", "L", "Orange"},
                 {"Printed Chiffon Dress", "4", "S", "Yellow"},
-               // {"Printed Summer Dress with Price $28.98", "2", "M", "Blue"},
+                {"Printed Summer Dress with Price $28.98", "2", "M", "Orange"},
         };
         return data;
     }
